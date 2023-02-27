@@ -1,0 +1,12 @@
+.banner2 {
+    background-color: pink; /*Requirement: 4 */
+    color: black; /*Requirement: 3 */
+    margin-top: 5%; /*Requirement: 6 * AND Requirement: 10 */
+    text-align: left; /*Requirement: 2 */
+    font: bold; /*Requirement: 1 */
+    border-style: dashed;
+    border-color: blueviolet; /*Requirement: 5 */
+    height: fit-content; /*Requirement: 7 */
+    list-style: georgian; /*Requirement: 8 */
+   
+}

@@ -1,0 +1,13 @@
+.banner3 {
+    background-color: aqua; /*Requirement: 4 */
+    color: black; /*Requirement: 3 */
+    margin-top: 75px; /*Requirement: 6 */
+    text-align: left; /*Requirement: 2 */
+    font: bold; /*Requirement: 1 */
+    border-style: dashed;
+    border-color: blueviolet; /*Requirement: 5 */
+    height: fit-content; /*Requirement: 7 */
+    list-style: georgian; /*Requirement: 8 */
+
+}
+

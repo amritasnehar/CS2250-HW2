@@ -1,0 +1,41 @@
+
+.banner { /* Requirement C: class selector*/
+
+    background-color: aqua; /*Requirement: 4 */
+    color: black; /*Requirement: 3 */
+    margin-top: 75px; /*Requirement: 6  AND Requirement: 9 */
+    text-align: left; /*Requirement: 2 */
+    font: bold; /*Requirement: 1 */
+    border-style: dashed;
+    border-color: blueviolet; /*Requirement: 5 */
+    height: fit-content; /*Requirement: 7 */
+    list-style: georgian; /*Requirement: 8 */
+    float:left; /*Requirement:  11 */
+    overflow: visible;  /*Requirement: 14  */
+    position: relative; /*Requirement: 15  */
+    visibility: visible; /*Requirement: 16  */
+    z-index:auto; /*Requirement: 17  */
+    clear: both; /*Requirement: 13  */
+}
+
+banner:active{  /* Requirement E : pseudo selector*/
+    color: brown;
+}
+
+
+
+p{  /* Requirement A : element selector*/
+    background-color: black;
+}
+
+h1{ /* Requirement F : Contextual selector*/
+    color: blue;
+}
+
+.index{ /* Requirement D : ID selector*/
+    font:caption;
+}
+
+p, h2{ /* Requirement B : grouped element selector selector*/
+    text-decoration-style: wavy;
+}
